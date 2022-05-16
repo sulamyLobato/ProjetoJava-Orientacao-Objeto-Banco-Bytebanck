@@ -3,6 +3,8 @@ conhecendo a ideia central do paradigma,
 que é criar unidades de código que combinem os dados associados a determinada informação com as funcionalidades aplicadas
 a dados (por exemplo, CPF + validação).
 
+Projeto foi desenvolvido juntamente com aplatafora Alura Cusos
+
 
 O problema do paradigma procedural.
 Introdução à Orientação a Objetos,
